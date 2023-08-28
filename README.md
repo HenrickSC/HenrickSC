@@ -13,12 +13,4 @@
   <img align="center" alt="Rafa-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
           
 </div>
-  
-  ##
-  
-<div>  
- 
-  ![Snake animation](https://github.com/HenrickSC/HenrickSC/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
 
