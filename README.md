@@ -1,4 +1,4 @@
-## Olá! dá uma olhada no meu perfil🙃
+## Hello! check my profile🙃
 
 <div>
   <a href="https://github.com/HenrickSC">
