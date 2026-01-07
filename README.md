@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Henrique Soares
+# 👨🏻‍💻 Henrique Chini
 
 <div>
   <a href="https://github.com/HenrickSC">
