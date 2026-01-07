@@ -10,7 +10,7 @@
 As ferramentas que fazem parte do meu stack técnico:
 
 * **Linguagens:** ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-* **Inteligência Artificial:** ![OpenAI](https://img.shields.io/badge/AI-000000?style=flat&logo=openai&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+* **Inteligência Artificial & APIs:** ![OpenAI](https://img.shields.io/badge/AI-000000?style=flat&logo=openai&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white) ![APIs](https://img.shields.io/badge/APIs-0055ff?style=flat&logo=postman&logoColor=white)
 * **Front-end:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 * **Banco de Dados & Versionamento:** ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ---
